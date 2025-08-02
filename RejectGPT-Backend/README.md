@@ -1,4 +1,4 @@
-# RoastGPT using LangChain
+# RejectGPT using LangChain
 
 ![RoastGPT Logo](kkjg.png)
 
